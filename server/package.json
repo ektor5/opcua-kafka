@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "node-opcua": "^0.0.25"
+    "node-opcua": "^0.5.5"
   },
   "devDependencies": {},
   "scripts": {
